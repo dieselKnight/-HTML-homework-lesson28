@@ -1,0 +1,26 @@
+.texta-nemnoshko {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 30px;
+    font-style: italic;
+}
+
+.texta-nemnoshko1 {
+    text-decoration: line-through;
+}
+
+.texta-eshe-chut {
+    text-align: center;
+}
+
+.text-poloskasverhu {
+    text-decoration: overline wavy;
+    text-shadow: 1px -1px 0 red;
+    word-spacing: 30px;
+}
+
+.text-texta {
+    letter-spacing: 5px;
+    text-decoration: underline;
+}
